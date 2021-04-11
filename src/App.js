@@ -60,3 +60,5 @@ export function Example() {
       </>
   )
 }
+
+export default Example
